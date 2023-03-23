@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{301:function(t,n,s){"use strict";s.r(n);var e={name:"AncientinkCol",props:{span:{type:Number,default:1}}},i=s(14),l=Object(i.a)(e,(function(){return(0,this._self._c)("div",{staticClass:"aui-col",style:{width:4.166*this.span+"%"}},[this._t("default")],2)}),[],!1,null,null,null);n.default=l.exports}}]);
